@@ -24,7 +24,7 @@ width: 100%;
 }
 
 body {
-width: 75%;
+width: 100%;
 background-image:
   linear-gradient(to bottom, rgb(255, 255, 255), 20%, rgba(243, 243, 243, 0)),
   linear-gradient(90deg, rgba(215, 214, 253, 0.895) 10%, rgba(255, 255, 255, 0) 80%)
